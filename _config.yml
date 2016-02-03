@@ -1,13 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Dylan Lederle-Ensign
 locale:           en_US
-url:
+url:              #//dlederle.com
 
+links:
+- title: Archive
+  url: /archive/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+root: /
+permalink:   /blog/:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -41,21 +45,21 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Dylan Lederle-Ensign
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Graduate Student at UC Santa Cruz. Studying games, software and ultimate frisbee"
+  email: dylan.lederle.ensign@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: dlederle
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: "UA-26756756-1"
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dlederle
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
