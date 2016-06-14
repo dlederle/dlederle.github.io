@@ -48,7 +48,7 @@ __Winter CMPM 171, Taught by [Michael Mateas](http://www.users.soe.ucsc.edu/~mic
 
 In many ways Winter quarter is the toughest but might be the most rewarding.
 This is the quarter where I really got to know individual stduents, their games and the team dynamics.
-At the beginning of the quarter the games are just small prototypes and big dreams, but 10 weeks later somethini
+At the beginning of the quarter the games are just small prototypes and big dreams, but 10 weeks later something like a game had sprung into existence.
 
 During the Winter the TAs job is mainly to meet with teams each week.
 I had 10 teams and [James](https://users.soe.ucsc.edu/~jor/) had 9.
