@@ -52,3 +52,7 @@ There are several ways a generator can tie into the larger game experience to re
   - Procedural graphics restores a sense of aura to visual art.
 Although it can be infinitely reproduced, there is a sense of wonder, uniqueness and discovery when you see just the right seed
 
+
+http://no-mans-sky.com/press/sheet.php?p=no_man%27s_sky
+
+http://gamescriticism.org/articles/smith-3-a
