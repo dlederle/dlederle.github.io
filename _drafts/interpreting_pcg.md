@@ -14,10 +14,11 @@ There is a veritable explosion of games using procedural content generation (or 
 
 I believe that interpretation of these games is still an open challenge for the game studies community.
 
-Soemthign something infinity/exploration/vastness
+Rhetorically: infinity/exploration/vastness
 
 If something is infinitely boring what is the point; similarly if the generator isn't changing the player experience in some way why should we care as critics?
 It becomes just another way to do data compression.
+(Jon Blow on compression, Compton's infinite bowls of oatmeal problem)
 
 Imbroglio (tiny tiny "world"), but massive space to explore.
 
