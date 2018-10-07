@@ -1,7 +1,7 @@
 --- 
 title: Hacktivist Post-mortem
 category: hacktivist
-layout: post
+layout: single
 --- 
 
 I posted the final section of my paper from last spring's independent study (actually there was another section where I looked at current examples of games I thought came close to this idea, but I cut it because I didn't like it very much) which gave me an opportunity to re-read it and think about the ideas I was exploring then.

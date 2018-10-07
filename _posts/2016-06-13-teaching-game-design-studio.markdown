@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Teaching Game Design Studio
 modified:
 categories: teaching

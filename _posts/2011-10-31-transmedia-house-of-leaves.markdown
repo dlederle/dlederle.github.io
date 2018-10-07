@@ -1,7 +1,7 @@
 --- 
 title: Transmedia House of Leaves
 category: engl457
-layout: post
+layout: single
 ---
 
 Mark Danielewski's novel House of Leaves forces the reader to think about the different media that we normally take for granted. 

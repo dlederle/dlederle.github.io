@@ -1,6 +1,6 @@
 --- 
 title: Games are Complicated
-layout: post
+layout: single
 ---
 
 In the latest edition of [*Game Studies*](http://gamestudies.org/), [Miguel Sicart](http://www.miguelsicart.net) wrote an intentionally provocative piece title ["Against Procedurality"](http://gamestudies.org/1103/articles/sicart_ap), which attempts to poke at the idea of procedural rhetoric and its centrality in current academic discourse about video games.

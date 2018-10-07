@@ -1,6 +1,6 @@
 --- 
 title: The making of this blog
-layout: post
+layout: single
 ---
 
 Getting this blog online has been a bit of a headache. For all [these reasons](http://blog.dlederle.com/2011/08/02/steve-yegge-convinced-me-to-blog/), I was convinced to start blogging. After reading various disccusions surrounding Google+, I was also convinced to put it up on my own domain. I also figured it was high time I had experience running a website. Turns out I did actually learn a lot.

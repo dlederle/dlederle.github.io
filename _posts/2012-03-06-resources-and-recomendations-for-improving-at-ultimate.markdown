@@ -1,7 +1,7 @@
 --- 
 title: Resources and Recomendations for Improving at Ultimate
 category: Ultimate
-layout: post
+layout: single
 published: false
 ---
 

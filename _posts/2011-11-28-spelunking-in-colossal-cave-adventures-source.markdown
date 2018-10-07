@@ -1,7 +1,7 @@
 --- 
 title: Spelunking in Colossal Cave Adventure's Source
 category: engl457
-layout: post
+layout: single
 ---
 
 In the [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/) Dennis Jerz of Seton Hill University wrote a [phenomenal essay](http://digitalhumanities.org/dhq/vol/1/2/000009/000009.html), in which he explored both the source code and source cave of "the classic text computer game *Colossal Cave Adventure*".

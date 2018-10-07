@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Computing History and Education"
 date: 2014-03-12 11:34
 comments: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Cybersyn and the Ludic Century"
 date: 2013-10-07 16:17
 comments: false

@@ -1,7 +1,7 @@
 --- 
 title: Games as poetry
 category: abstract
-layout: post
+layout: single
 ---
 
 This [recent interview with Ian Bogost](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0014.205) has me thinking about games as poetry.

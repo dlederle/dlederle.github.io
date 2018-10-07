@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "#digra2013 Notes and Reflections"
 date: 2013-09-30 09:10
 comments: false

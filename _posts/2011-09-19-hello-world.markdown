@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-layout: post
+layout: single
 ---
 
 Hello world. Toto on heroku.

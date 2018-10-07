@@ -1,7 +1,7 @@
 --- 
 title: "Raw Shark Texts: Negative 1"
 category: engl457
-layout: post
+layout: single
 ---
 
 I enjoyed reading *The Raw Shark Texts* immensely, and went into the official forums searching for more.

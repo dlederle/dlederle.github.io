@@ -1,7 +1,7 @@
 ---
 title: Learn to Code
 category: engl457
-layout: post
+layout: single
 ---
 
   Shanagram [writes](http://shanagram.wordpress.com/2011/09/13/do-we-need-to-understand-code-to-understand-machines-my-rebuttal/)

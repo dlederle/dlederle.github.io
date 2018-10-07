@@ -1,7 +1,7 @@
 --- 
 title: Full Stack Criticism
 category: readingCode
-layout: post
+layout: single
 ---
 
 *JFK: Reloaded* (*Traffic*, 2004) is a simulative game that purports to accurately model the John F. Kennedy Assassination. 

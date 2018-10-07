@@ -1,6 +1,6 @@
 --- 
 title: Prom Week
-layout: post
+layout: single
 ---
 
 [*Prom Week*](http://www.kongregate.com/games/PromWeekPlaya/prom-week) is a recently released game from the UC Santa Cruz Expressive Intelligence Studio.

@@ -1,6 +1,6 @@
---- 
+---
 title: Farcebook
-layout: post
+layout: single
 ---
 
 This semester (Fall 2011), I took CPSC 330: Object Oriented Analysis and Design.
@@ -8,16 +8,16 @@ To illustrate object oriented principles, a large portion of our grade was a sem
 We went through an entire design cycle, beginning with writing use cases for different features, designing the architecture of the site and producing UML class and sequence diagrams, and finally implementing the site.
 This is my post-mortem of the phenomenal learning experience.
 
-##Background
+## Background
 
 Most of the class was divided into groups of three, however the class size allowed one group of four.
 I had three friends in the class, and we fought successfully to be that four person group.
-Since our main text for the semester was the famous [*Design Patterns*](http://en.wikipedia.org/wiki/Design_Patterns) we dubbed ourselves "The Gang of Four", and proceeded to annoy everyone in the class with our team spirit.
+Since our main text for the semester was the famous [_Design Patterns_](http://en.wikipedia.org/wiki/Design_Patterns) we dubbed ourselves "The Gang of Four", and proceeded to annoy everyone in the class with our team spirit.
 
 I initially proposed that we make our site Ultimate Frisbee themed, however only half of the group played, and the ambitions I had for the site were well beyond the scope of one semester.
 We settled on Mike's suggestion of "Farcebook", and tried to think of as many funny features to mock the less-loved parts of the [Book of Faces](http://facebook.com).
 
-##Design
+## Design
 
 The first phase of the project was to produce Use Cases to flesh out how our features would work for actual users.
 It went along smoothly, and our professor reassured us that we were not obligated to implement everything we wrote about.
@@ -26,7 +26,7 @@ Next, after spending more time studying various design patterns, came the archit
 We struggled for many long nights, hammering out every detail in our UML class diagrams.
 Many jokes, arguments and handfuls of junk food later we had a very solid plan.
 
-##Implementation
+## Implementation
 
 Finally, the dreaded implementation.
 For this class we were using a Java backend and JSPs running on Apache Tomcat, and using subversion for version control.
@@ -40,7 +40,7 @@ A note on persistence: we had not taken a databases class before this, so we had
 Given this, and since the focus of the course was more on OO design, we did everything with file IO rather than SQL.
 This was extremely unpleasant to do bug-free, and everyone is thankful that Kevin took care of it.
 
-##Demo Day
+## Demo Day
 
 In lieu of an in class final, our class was holding a demo day for everyones social networks.
 In an example of very poor judgement, we decided to implement one final killer feature the night before.
@@ -61,7 +61,7 @@ As we drove to campus, I furiously registered another throw away GMail account o
 We changed the details and recompiled just in time.
 Of course, we were banned as soon as our entire class discovered the feature, but it was well worth it.
 
-##Post-Script
+## Post-Script
 
 I've pulled the source down from our school's servers, deleted all of the svn and JavaMail, and started a github repo.
 Starting from [this](https://github.com/heroku/devcenter-embedded-tomcat) code, I've put it up on a free Heroku account.

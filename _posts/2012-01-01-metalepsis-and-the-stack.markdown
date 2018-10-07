@@ -1,7 +1,7 @@
 --- 
 title: Metalepsis and the Stack
 category: hacktivist
-layout: post
+layout: single
 ---
 
 In the final chapter of her book [*Avatars of Story*](http://www.upress.umn.edu/book-division/books/avatars-of-story), Marie-Laure Ryan convincingly demonstrates that the narratalogical figure of [metalepsis](http://en.wikipedia.org/wiki/Metalepsis#Narratology) is a useful tool for the study of video games, and indeed computers in general.

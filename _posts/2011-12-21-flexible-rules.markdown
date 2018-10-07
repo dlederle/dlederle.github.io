@@ -1,7 +1,7 @@
 --- 
 title: Flexible Rules
 date: 21/12/2011
-layout: post
+layout: single
 ---
 
 I'm trying to kick-start some writing on this blog that is not assigned, so here are some short thoughts on rules in digital games vs non-digital.

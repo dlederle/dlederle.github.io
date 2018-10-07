@@ -1,7 +1,7 @@
 --- 
 title: Moral Computing
 category: engl457
-layout: post
+layout: single
 ---
 
 I am taking "Object Oriented Analysis and Design" this semester, and last week we had our first writing assignment. It was a short opinion piece on ["Moral Responsibility for Computing Artifacts: The Rules"](https://edocs.uis.edu/kmill2/www/TheRules/). This is a manifesto written by some computer scientists adressing moral responsibility for people writing and using "computer artifacts", or code. It fits with some of the discussions we had earlier in the seminar about ethical uses of code, so I'm posting a modified version below.

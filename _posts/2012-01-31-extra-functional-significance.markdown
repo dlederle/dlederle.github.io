@@ -1,7 +1,7 @@
 --- 
 title: Extra-Functional Significance
 category: readingCode
-layout: post
+layout: single
 ---
 
 In computer coding, it is considered best practice to leave comments for other users of the code, most often yourself in the future.

@@ -1,7 +1,7 @@
 --- 
 title: Music in Jason Rohrer's Gravitation
 category: engl457
-layout: post
+layout: single
 ---
 
 Jason Rohrer describes his [*Gravitation*](http://hcsoftware.sourceforge.net/gravitation/) as "a video game about mania, melancholia, and the creative process".

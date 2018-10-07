@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: single
 title: "idTech3 and Immaterial Platforms"
 date: 2013-10-13 16:41
 comments: false 
 categories: digra2013
 ---
+
 (Part 1 of the paper I presented at Digra in August)
 
 Watch the beginning of these two clips:
@@ -30,7 +31,8 @@ The game engine is the key immaterial platform for computer games.
 Today, I’ll closely examine idTech3’s networking component on several levels.
 While there are many interesting parts of the engine, this tight focus allows me to trace its impact on several key communities, and is a lense to view the broader place of id Software in the genre.
 
-###Immaterial Platforms
+### Immaterial Platforms
+
 From the very beginning, Bogost and Montfort include software platforms in the scope of inquiry.
 This is their definition from 2007:
 
@@ -50,7 +52,8 @@ It is important to make the distinction between game code, which encodes the for
 This is a messy, liminal space that is not clearly defined.
 If we place immaterial platforms as a halfway point between “code” and “platform” they become a useful lense with which to investigate the intersection of those layers.
 
-####Game Engine as Platform
+#### Game Engine as Platform
+
 The most important immaterial platform for any game is its engine.
 They emerged as a way to reuse code between games which shared many of the same core requirements.
 2D or 3D graphics, networking, sound, and realistic physics simulations are typically easier to reuse than reimplement, as is interacting with hardware.

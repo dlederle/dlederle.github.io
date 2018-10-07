@@ -1,7 +1,7 @@
 --- 
 title: Gravitation
 category: readingCode
-layout: post
+layout: single
 ---
 
 

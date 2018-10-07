@@ -1,7 +1,7 @@
 --- 
 title: Code Poetry
 category: engl457
-layout: post
+layout: single
 ---
 
   I started reading ["The Code is not the Text"](http://www.electronicbookreview.com/thread/electropoetics/literal) this weekend, but found it pretty dense and challenging. I am interested in critical code studies, and hope to write further about them, but for this week I decided to attempt writing my own "code poem". It is written in very bad Ruby.

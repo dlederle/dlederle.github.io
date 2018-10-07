@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Bartleby"
 date: 2013-07-03
 comments: false
@@ -7,7 +7,7 @@ published: true
 category: personal
 ---
 
-##*Warning: Boring Personal Reflection. Proceed with caution*
+## _Warning: Boring Personal Reflection. Proceed with caution_
 
 The best choice I ever made was listening to my parents (just this once, there were plenty of times I completely ignored them) when they advised me to drop out of high school.
 It was 10th grade, and I hadn't done well in school for several years.
@@ -32,7 +32,7 @@ The reason being, there was a required Logic course for the Philosophy major, wh
 My father did not get along with the professor, so he never completed the degree.
 
 My parents, concerned for my wellbeing and happiness, convinced me that school was not helping either of those goals.
-Mom handed me a book called [*The Teenage Liberation Handbook*](http://en.wikipedia.org/wiki/The_Teenage_Liberation_Handbook) about "unschooling".
+Mom handed me a book called [_The Teenage Liberation Handbook_](http://en.wikipedia.org/wiki/The_Teenage_Liberation_Handbook) about "unschooling".
 Now, I haven't read the book since I was 16 so forgive me if I misrepresent it, but the basic premise was that the Industrial Revolution model of K-12 education was innefective at teaching people much of anything and made them less creative, energetic human beings.
 My parents were both working full time, and they did not have the time nor inclination to guide me through everything I was going to learn in the next couple years.
 So, after much debate, I left the traditional school system on the week of my 16th birthday.
@@ -50,7 +50,7 @@ This was challenging, but it has helped me immeasurably, primarily in my researc
 My interests have certainly changed since I was 16, but I use those skills daily.
 
 My parents had just one mandatory assignment as I started off my journey.
-I was to read the Melville story [*Bartleby the Scrivener*](http://www.bartleby.com/129/), and write a response.
+I was to read the Melville story [_Bartleby the Scrivener_](http://www.bartleby.com/129/), and write a response.
 If you've read the story, its fairly obvious what the point was.
 
 Bartleby has been an important figure in my life ever since.

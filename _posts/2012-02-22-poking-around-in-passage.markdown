@@ -1,6 +1,6 @@
 --- 
 title: Poking Around in Passage
-layout: post
+layout: single
 ---
 
 Written as a blog checkpoint for [engl376, Electronic Literature](http://elit.umwblogs.org/) with Dr. Whalen.

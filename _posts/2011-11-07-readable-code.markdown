@@ -1,7 +1,7 @@
 --- 
 title: Readable Code
 category: engl457
-layout: post
+layout: single
 ---
 
 > We want to establish the idea that a computer language is not just a way of getting a computer to perform operations but rather that it is a novel formal medium for expressing ideas about methodology. Thus, programs must be written for people to read, and only incidentally for machines to execute. 

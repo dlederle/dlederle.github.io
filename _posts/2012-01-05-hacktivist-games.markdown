@@ -1,7 +1,7 @@
 --- 
 title: Hacktivist Games
 category: hacktivist
-layout: post
+layout: single
 ---
 
 These sections lead to the main proposal of this paper, the potential for hacktivist video games.

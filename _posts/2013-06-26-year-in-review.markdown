@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Year In Review"
 date: 2013-06-20 07:40
 comments: false
@@ -8,7 +8,8 @@ categories: meta, personal
 
 Hello World!
 
-##Misc
+## Misc
+
 I let this blog sit dead for most of the last year.
 
 I've moved my blogging engine from Toto to Octopress.
@@ -23,12 +24,12 @@ In an interest to retain a little more, keep track of what I've been reading, an
 These are just notes, reactions and first impressions.
 They may be useful to someone other than me, but that's not the primary goal.
 
-##This year
+## This year
 
 What have I been doing the whole year that I haven't been updating this site?
 In a word, graduating.
 
-###Chronologically, some of the more important things that happened to me in the last year
+### Chronologically, some of the more important things that happened to me in the last year
 
 Last summer I got an internship at [Logik Systems](http://logik.com).
 I learned an incredible amount about how software is produced, and the challenges of building a new, innovative product.

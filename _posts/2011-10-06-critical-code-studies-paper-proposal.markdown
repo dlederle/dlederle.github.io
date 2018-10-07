@@ -1,7 +1,7 @@
 --- 
 title: Critical Code Studies paper proposal
 category: engl457
-layout: post
+layout: single
 ---
 
 The emerging field of critical code studies offers tools for digital humanities scholars to study electronic works by looking at the source code of the work. Some practitioners of critical code studies explore the functionality of the code. Others read the source as a text, seeking insight into the work through extra-functional signifiers such as comments and the naming of functions or variables. I plan to explore both topics in my paper, and use both techniques if they offer insights into the work.

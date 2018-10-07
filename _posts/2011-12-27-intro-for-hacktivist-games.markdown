@@ -1,7 +1,7 @@
 --- 
 title: Intro for Hacktivist Games
 category: hacktivist
-layout: post
+layout: single
 ---
 
 

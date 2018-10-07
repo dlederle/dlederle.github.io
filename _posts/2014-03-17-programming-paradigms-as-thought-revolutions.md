@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Programming Paradigms as Thought Revolutions
 modified:
 categories: 
